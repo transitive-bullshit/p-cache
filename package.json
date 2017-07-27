@@ -1,0 +1,21 @@
+{
+  "name": "p-cache",
+  "version": "1.0.0",
+  "description": "Async function wrapper to cache results via lru-cache",
+  "main": "index.js",
+  "repository": "fisch0920/p-cache",
+  "author": "Travis Fischer",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && ava -v"
+  },
+  "dependencies": {
+    "lru-cache": "^4.1.1",
+    "object-hash": "^1.1.8"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "sinon": "^2.4.1",
+    "standard": "^10.0.2"
+  }
+}
