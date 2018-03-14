@@ -1,6 +1,6 @@
 {
   "name": "p-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Async function wrapper to cache results via lru-cache",
   "main": "index.js",
   "repository": "fisch0920/p-cache",
