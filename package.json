@@ -9,6 +9,9 @@
   "scripts": {
     "test": "standard && ava -v"
   },
+  "engines": {
+    "node": ">=8"
+  },
   "dependencies": {
     "lru-cache": "^4.1.1",
     "object-hash": "^1.1.8"
