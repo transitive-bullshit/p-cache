@@ -2,7 +2,7 @@
 
 > Decorator to memoize the results of async functions via lru-cache.
 
-[![NPM](https://img.shields.io/npm/v/p-cache.svg)](https://www.npmjs.com/package/p-cache) [![Build Status](https://travis-ci.org/transitive-bullshit/p-cache.svg?branch=master)](https://travis-ci.org/transitive-bullshit/p-cache) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/p-cache.svg)](https://www.npmjs.com/package/p-cache) [![Build Status](https://travis-ci.com/transitive-bullshit/p-cache.svg?branch=master)](https://travis-ci.com/transitive-bullshit/p-cache) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Features
 

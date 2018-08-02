@@ -6,6 +6,7 @@
   "repository": "fisch0920/p-cache",
   "author": "Travis Fischer",
   "license": "MIT",
+  "reveal": true,
   "scripts": {
     "test": "standard && ava -v"
   },
